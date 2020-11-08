@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 
-	var int a = 10
+	var a int = 10
 	fmt.Printf("a=", a)
 }
