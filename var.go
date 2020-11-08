@@ -1,9 +1,9 @@
-package golang2
+package main
 
 import "fmt"
 
 func main() {
 
 	var a int = 10
-	fmt.Printf("a=", a)
+	fmt.Printf("a=%d", a)
 }
